@@ -2,3 +2,19 @@
   font-family: sans-serif;
   text-align: center;
 }
+.special {
+  color: green;
+}
+.btn-tour {
+  width: 7rem;
+  height: 2rem;
+  margin: 1rem;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.places {
+  border: 1px solid lightgray;
+  margin: 0.5rem;
+}
