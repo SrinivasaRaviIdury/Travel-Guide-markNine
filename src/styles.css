@@ -15,6 +15,6 @@
   cursor: pointer;
 }
 .places {
-  border: 1px solid lightgray;
+  border: 0.5px solid lightgray;
   margin: 0.5rem;
 }
